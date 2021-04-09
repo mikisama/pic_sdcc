@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Users/HP/scoop/apps/sdcc/4.1.0/include",
+                "C:/Users/HP/scoop/apps/sdcc/4.1.0/non-free/include/pic14",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "__code=",
+                "interrupt=",
+                "__sfr=char",
+                "__at(x)=",
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c99",
+            "intelliSenseMode": "clang-x86"
+        }
+    ],
+    "version": 4
+}
